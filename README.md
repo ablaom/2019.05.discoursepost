@@ -8,7 +8,12 @@
 [MLJ](https://github.com/alan-turing-institute/MLJ.jl) is a new
 flexible framework for composing and tuning supervised and
 unsupervised learning models, currently scattered in assorted Julia
-packages, as well as wrapped models from other languages. 
+packages, as well as wrapped models from other languages. The MLJ
+project also seeks to focus efforts in the Julia ML community, and in
+particular to help inter-operability and maintainability of key ML
+packages.
+
+
 
 The package has been developed primarily at [The Alan Turing
 Institute](https://turing.ac.uk) but enjoys a growing list of advisors
@@ -71,9 +76,33 @@ and
   implementations to properly account for classes seen in training but
   not in evaluation.
 
-Enhancements planned for the near future include integration of
-Flux.jl **deep learning** models, and **gradient descent tuning** of
-continuous hyperparameters using automatic differentiation.
+
+### Some planned enhancements
+
+- Integrate **deep learning** packages, such as Flux.jl.
+
+- Model agnostic gradient descent tuning using **automatic
+	differentiation**.
+	
+- Enhance support for time series and sparse data.
+
+- Add support for heterogeneous/distributed architectures.
+
+- Package common learning network architectures (**linear pipelines**,
+  **stacks**, etc) as simple one-line operations.
+
+- Implement systematic **benchmarking** for models matching a given task.
+
+- Automated estimates of **cpu and memory requirements** for given task/model.
+
+- Implement DAG style **scheduling**.
+
+- Extend and integrate existing **loss function** libraries to better handle
+  probabilistic prediction.
+
+- Add **interpretable machine learning** measures.
+
+- Add **online learning** support.
 
 Feedback very welcome!
 
