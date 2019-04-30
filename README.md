@@ -13,10 +13,10 @@ packages, as well as wrapped models from other languages.
 The package has been developed primarily at [The Alan Turing
 Institute](https://turing.ac.uk) but enjoys a growing list of advisors
 and
-[contributors](https://github.com/alan-turing-institute/MLJ.jl/blob/master/CONTRIBUTE.md). If you like the project, please star the GitHub [repo](https://github.com/alan-turing-institute/MLJ.jl) to ensure success of a **pending funding review.**  
+[contributors](https://github.com/alan-turing-institute/MLJ.jl/blob/master/CONTRIBUTE.md). If you like the project, please star the GitHub [repo](https://github.com/alan-turing-institute/MLJ.jl) to boost the prospects of a **pending funding review.**  
 
 
-**Quick links:**
+### Quick links
 
 &#9758; [MLJ vs ScikitLearn.jl](https://alan-turing-institute.github.io/MLJ.jl/dev/frequently_asked_questions/)  
 
@@ -42,7 +42,7 @@ and
 -->
 
 
-## Key implemented features
+### Key implemented features
 
 - **Learning networks.** Flexible model composition beyond traditional
   pipelines (more on this below).
@@ -74,6 +74,6 @@ Enhancements planned for the near future include integration of
 Flux.jl **deep learning** models, and **gradient descent tuning** of
 continuous hyperparameters using automatic differentiation.
 
-
+Feedback very welcome!
 
 
