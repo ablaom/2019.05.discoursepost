@@ -7,7 +7,7 @@
 
 [MLJ](https://github.com/alan-turing-institute/MLJ.jl) is a new
 flexible framework for composing and tuning supervised and
-unsupervised learning models currently scattered in assorted Julia
+unsupervised learning models, currently scattered in assorted Julia
 packages, as well as wrapped models from other languages. 
 
 The package has been developed primarily at [The Alan Turing
@@ -22,7 +22,7 @@ and
 
 &#9758; Video from [London Julia User Group meetup in March 2019](https://www.youtube.com/watch?v=CfHkjNmj1eE) (skip to [demo at 21'39](https://youtu.be/CfHkjNmj1eE?t=21m39s)) &nbsp; 
 
-&#9758;  The MLJ [tour](https://github.com/alan-turing-institute/MLJ.jl/blob/master/docs/src/tour.ipynb) 
+&#9758;  The MLJ [docs](https://alan-turing-institute.github.io/MLJ.jl/dev/) and [tour](https://github.com/alan-turing-institute/MLJ.jl/blob/master/docs/src/tour.ipynb) 
 &nbsp; 
 
 &#9758; Building a [self-tuning random
